@@ -22,5 +22,5 @@
 ![step-20](20.png)
 ![step-21](21.png)
 ![step-22](22.png)
-![step-23](23.png)
-![step-24](24.png)
+![step-23](23.jpg)
+![step-24](24.jpg)
