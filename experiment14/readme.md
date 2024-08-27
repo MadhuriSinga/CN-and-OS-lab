@@ -2,7 +2,7 @@
 ![program file](mft_543.py)
 
 #mft sample output
-![sampleoutput](mft_sampleoutput(1).png)
+![sampleoutput](mft_sampleoutput.png)
 
 #mft executed output
 ![executedoutput](mft_executedoutput(1).png)
