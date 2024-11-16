@@ -4,7 +4,7 @@
 # sample output
 ![sample output](fcfs(ds)_sample_op.png)
 
-#executed output
+# executed output
 ![executed output](fcfs(ds)_executed_op.png)
 
 # scan program file
