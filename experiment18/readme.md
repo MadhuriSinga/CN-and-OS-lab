@@ -1,7 +1,7 @@
 # fcfs program file
 ![program file](fcfs(ds).py)
 
-#sample output
+# sample output
 ![sample output](fcfs(ds)_sample_op.png)
 
 #executed output
@@ -10,17 +10,17 @@
 # scan program file
 ![program file](scan.py)
 
-#sample output
+# sample output
 ![sample output](scan_sample_op.png)
 
-#executed output
+# executed output
 ![executed output](scan_executed_op.png)
 
 # cscan program file
 ![program file](scan.py)
 
-#sample output
+# sample output
 ![sample output](cscan_sample_op.png)
 
-#executed output
+# executed output
 ![executed output](cscan_executed_op.png)
